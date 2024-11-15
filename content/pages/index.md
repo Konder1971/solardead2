@@ -57,6 +57,7 @@ sections:
           - pr-4
         justifyContent: flex-start
         borderRadius: none
+        borderColor: border-secondary
       title:
         textAlign: left
       subtitle:
