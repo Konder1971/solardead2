@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - type: TextSection
     colors: colors-f
-    variant: variant-b
+    variant: variant-a
     title: Чертов день
     text: |+
       Чертов день,
