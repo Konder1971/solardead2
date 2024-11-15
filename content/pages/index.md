@@ -48,7 +48,7 @@ sections:
 
       ![](/images/IMG_2059.jpg)
 
-    elementId: ''
+    elementId: id-st
     styles:
       self:
         height: auto
