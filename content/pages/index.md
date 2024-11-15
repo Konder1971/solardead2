@@ -58,7 +58,7 @@ sections:
         justifyContent: flex-start
         borderRadius: none
         borderColor: border-complementary
-        borderWidth: 4
+        borderWidth: 0
       title:
         textAlign: left
       subtitle:
