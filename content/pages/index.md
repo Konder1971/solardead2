@@ -14,13 +14,38 @@ sections:
     colors: colors-f
     variant: variant-a
     title: The Section Title
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: |
+
+      Чертов день, 
+      Я опять превозмог,
+      Дохлик власть показал и отстал,
+      Кто-то всё разложил, 
+      расписал и сложил,
+      И мы вновь отыграли как встарь.
+
+      Я забил, откатился и слил
+      Мой порядок уже не смести,
+      Я играю с ребятами Вихрь,
+      Кое-что помогает спасти.
+
+      Конь опять воспарил на дыбы,
+      Что бывало уже и не раз.
+      Он приручен, лады,
+      Но лады не в склады,
+      Суть покроет следы,
+      Только вспомнит ли Хаос о нас?
+
+      Днище может служить мастерством,
+      Да и как, в самом деле, иначе,
+      Оно выплюнет нас естеством,
+      Без подачи, 
+      а только с отдачей. 
+
+      Он давно подустал нас ловить,
+      Он желает спокойствия,
+      Тише,
+      Бог-Сморчок заглотил свой крючок,
+      Хотя вроде и было всё свыше.
     elementId: ''
     styles:
       self:
