@@ -59,6 +59,7 @@ sections:
         borderRadius: none
         borderColor: border-complementary
         borderWidth: 0
+        borderStyle: solid
       title:
         textAlign: left
       subtitle:
