@@ -63,6 +63,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    subtitle: 'Бог-Сморчок '
   - elementId: ''
     colors: colors-f
     backgroundSize: full
