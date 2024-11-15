@@ -58,7 +58,7 @@ sections:
           - pb-28
           - pl-4
           - pr-4
-        justifyContent: flex-start
+        justifyContent: center
         borderRadius: none
         borderColor: border-complementary
         borderWidth: 0
