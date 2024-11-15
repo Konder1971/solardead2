@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Чертов день
-    text: |+
+    text: |
       Чертов день,
       Я опять превозмог,
       Дохлик власть показал и отстал,
@@ -44,10 +44,7 @@ sections:
       Бог-Сморчок заглотил свой крючок,
       Хотя вроде и было всё свыше.
 
-
-
       ![](/images/IMG_2059.jpg)
-
     elementId: id-st
     styles:
       self:
