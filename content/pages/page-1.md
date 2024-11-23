@@ -129,7 +129,7 @@ colors: colors-b
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
-  backgroundSize: cover
+  backgroundSize: auto
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
