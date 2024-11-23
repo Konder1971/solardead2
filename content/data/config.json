@@ -15,6 +15,16 @@
             },
             {
                 "type": "Link",
+                "label": "Page-1",
+                "altText": "Page-1",
+                "url": "/page-1",
+                "showIcon": false,
+                "icon": "",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
                 "label": "Learn more",
                 "altText": "",
                 "url": "/page-1",
@@ -32,16 +42,6 @@
                 "type": "Link",
                 "label": "Blog",
                 "url": "/blog"
-            },
-            {
-                "type": "Link",
-                "label": "Page-1",
-                "altText": "Page-1",
-                "url": "/page-1",
-                "showIcon": false,
-                "icon": "",
-                "iconPosition": "right",
-                "elementId": ""
             }
         ],
         "socialLinks": [
