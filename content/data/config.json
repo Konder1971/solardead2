@@ -6,7 +6,7 @@
         "headerVariant": "variant-c",
         "isSticky": true,
         "title": "HOME PAGE",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "primaryLinks": [
             {
                 "type": "Link",
@@ -57,7 +57,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/fox.svg",
+            "url": "/images/shchit.png",
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": ""
