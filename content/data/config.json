@@ -59,7 +59,7 @@
             "type": "ImageBlock",
             "url": "/images/fox.svg",
             "altText": "",
-            "caption": "Caption of the image",
+            "caption": "",
             "elementId": ""
         }
     },
