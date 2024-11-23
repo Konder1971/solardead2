@@ -101,7 +101,7 @@ sections:
           - pb-48
           - pl-4
           - pr-4
-        alignItems: center
+        alignItems: flex-start
         justifyContent: center
         flexDirection: row-reverse
         borderColor: border-primary
