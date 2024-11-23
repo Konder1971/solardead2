@@ -106,7 +106,7 @@ sections:
       actions:
         justifyContent: flex-start
 addTitleSuffix: true
-colors: colors-c
+colors: colors-e
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
