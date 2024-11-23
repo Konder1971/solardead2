@@ -126,13 +126,6 @@ sections:
       can continue to scroll down to see more details and credentials about me.
 addTitleSuffix: true
 colors: colors-b
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 100
 metaTitle: Page-1
 metaDescription: Page-1
 ---
