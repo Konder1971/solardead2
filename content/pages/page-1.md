@@ -132,7 +132,7 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 100
+  opacity: 73
 metaTitle: Page-1
 metaDescription: Page-1
 ---
