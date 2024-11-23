@@ -79,7 +79,7 @@ sections:
         altText: ''
         url: /
         showIcon: true
-        icon: apple
+        icon: cart
         iconPosition: right
         style: primary
         elementId: ''
