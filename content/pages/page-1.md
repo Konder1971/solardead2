@@ -79,7 +79,7 @@ sections:
         altText: ''
         url: /
         showIcon: true
-        icon: cart
+        icon: arrowRight
         iconPosition: right
         style: primary
         elementId: ''
