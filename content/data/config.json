@@ -10,11 +10,6 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info"
-            },
-            {
-                "type": "Link",
                 "label": "Page-1",
                 "altText": "Page-1",
                 "url": "/page-1",
@@ -22,6 +17,11 @@
                 "icon": "",
                 "iconPosition": "right",
                 "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Info",
+                "url": "/info"
             },
             {
                 "type": "Link",
