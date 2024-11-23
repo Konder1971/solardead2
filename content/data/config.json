@@ -39,7 +39,7 @@
                 "altText": "Page-1",
                 "url": "/page-1",
                 "showIcon": false,
-                "icon": "arrowRight",
+                "icon": "",
                 "iconPosition": "right",
                 "elementId": ""
             }
