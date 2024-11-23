@@ -371,3 +371,7 @@
         @apply bg-transparent;
     }
 }
+
+header.sticky {
+    background-color: #fff;
+}
