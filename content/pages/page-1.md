@@ -37,4 +37,5 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 80
 metaTitle: Page-1
+metaDescription: Page-1
 ---
