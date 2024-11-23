@@ -86,7 +86,7 @@ sections:
     styles:
       self:
         height: auto
-        width: full
+        width: wide
         padding:
           - pt-36
           - pb-48
