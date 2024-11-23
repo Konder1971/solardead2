@@ -96,6 +96,7 @@ sections:
         justifyContent: center
         flexDirection: col-reverse
         borderColor: border-primary
+        borderStyle: dotted
       title:
         textAlign: left
       subtitle:
