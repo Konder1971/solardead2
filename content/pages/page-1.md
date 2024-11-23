@@ -103,7 +103,7 @@ sections:
           - pr-4
         alignItems: flex-start
         justifyContent: center
-        flexDirection: col-reverse
+        flexDirection: row-reverse
         borderColor: border-primary
         borderStyle: dotted
       title:
