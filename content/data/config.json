@@ -58,7 +58,7 @@
         "logo": {
             "type": "ImageBlock",
             "url": "/images/fox.svg",
-            "altText": "altText of the image",
+            "altText": "",
             "caption": "Caption of the image",
             "elementId": ""
         }
