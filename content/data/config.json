@@ -57,7 +57,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/fox.svg",
+            "url": "/images/apple-icon-76x76.png",
             "altText": "",
             "caption": "",
             "elementId": ""
