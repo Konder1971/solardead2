@@ -74,13 +74,22 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/about.jpg
       altText: Hero image
       caption: Caption of the image
       elementId: ''
-    colors: colors-b
+    colors: colors-a
     backgroundSize: full
     elementId: ''
     styles:
@@ -94,7 +103,7 @@ sections:
           - pr-4
         alignItems: flex-start
         justifyContent: center
-        flexDirection: col-reverse
+        flexDirection: row-reverse
         borderColor: border-primary
         borderStyle: dotted
       title:
@@ -105,8 +114,18 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    text: >
+      This is my info—I'm sharing it all this with ya'll to impress you with all
+      the hard work I've done in the past few years. Once you're impressed, you
+      can continue to scroll down to see more details and credentials about me.
+      This is my info—I'm sharing it all this with ya'll to impress you with all
+      the hard work I've done in the past few years. Once you're impressed, you
+      can continue to scroll down to see more details and credentials about me.
+      This is my info—I'm sharing it all this with ya'll to impress you with all
+      the hard work I've done in the past few years. Once you're impressed, you
+      can continue to scroll down to see more details and credentials about me.
 addTitleSuffix: true
-colors: colors-a
+colors: colors-b
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
