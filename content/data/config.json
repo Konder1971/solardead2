@@ -36,7 +36,7 @@
             {
                 "type": "Link",
                 "label": "Page-1",
-                "altText": "",
+                "altText": "Page-1",
                 "url": "/page-1",
                 "showIcon": false,
                 "icon": "arrowRight",
