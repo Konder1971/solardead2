@@ -3,7 +3,7 @@ type: PageLayout
 title: Page-1
 sections:
   - type: TextSection
-    colors: colors-f
+    colors: colors-e
     variant: variant-a
     title: This in an empty page
     subtitle: The section subtitle
@@ -126,13 +126,6 @@ sections:
       can continue to scroll down to see more details and credentials about me.
 addTitleSuffix: true
 colors: colors-b
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg2.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 80
 metaTitle: Page-1
 metaDescription: Page-1
 ---
