@@ -35,7 +35,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Page-1",
                 "altText": "",
                 "url": "/page-1",
                 "showIcon": false,
